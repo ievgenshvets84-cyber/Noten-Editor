@@ -1,0 +1,10 @@
+{
+  "name": "PartiturStudio AI - Audio zu Noten & Partitur Editor",
+  "description": "Präzise KI-Transkription von Musik und Gesang in interaktive Notenpartituren mit Chor-Anleitungen, Instrumententrennung, Drag-and-Drop-Korrektur und MIDI-Export.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
